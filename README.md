@@ -15,9 +15,6 @@ I'm a student at ISTTS university majoring in Informatics.
 - SQLite3
 - Java (Currently learning)
 
-## Currently Working on
-Learing OOP.
-
 <!--
 **Deastrisk/Deastrisk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
